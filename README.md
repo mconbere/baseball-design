@@ -1,11 +1,13 @@
 The Baseball Design Pattern
 ===============
 
-There is one rule:
+There is one rule
+-----------------
 
 1. You may not return. You may only catch and throw.
 
-Listen to the praise given to The Baseball Design Pattern!
+Praise given to The Baseball Design Pattern
+-------------------------------------------
 
 It causes immediate reations:
 > My eyes... the burning...
