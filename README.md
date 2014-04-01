@@ -9,6 +9,8 @@ Listen to the praise given to The Baseball Design Pattern:
 
 > My eyes... the burning...
 
+
 > Aaaaaah noooo
+
 
 > This approach would be useful when the problem was that your code was running too fast.
