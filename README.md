@@ -4,7 +4,7 @@ The Baseball Design Pattern
 There is one rule
 -----------------
 
-1. You may not return. You may only catch and throw.
+1. You may not return. _You may only catch and throw_.
 
 Praise given to The Baseball Design Pattern
 -------------------------------------------
@@ -21,4 +21,4 @@ It is found to be useful:
 It is challenging:
 > I dare you to use it in a coding interview
 
-Try The Baseball Design Pattern today! Remember, you may only catch and throw.
+Try The Baseball Design Pattern today! Remember, _you may only catch and throw_.
