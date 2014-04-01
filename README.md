@@ -1,5 +1,7 @@
 The Baseball Design Pattern
-===============
+===========================
+
+C++ is known as an expansive, difficult language with many corner cases that trip up beginners and experts alike. The Baseball Design Pattern is a method of reducing the scope of the language, making it easier to learn and reason about.
 
 There is one rule
 -----------------
