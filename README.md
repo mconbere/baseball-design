@@ -31,7 +31,7 @@ Try The Baseball Design Pattern today! Remember, _you may only catch and throw_.
 Examples
 --------
 
-==== Factorial
+### Factorial
 
     void factorial(int n, int accum = 1) {
       if (n == 0) throw accum;
