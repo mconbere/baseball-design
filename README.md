@@ -37,3 +37,7 @@ Examples
       if (n == 0) throw accum;
       factorial(n - 1, n * accum);
     }
+
+### More
+
+A full working example can be found [in the src/ directory](https://github.com/mconbere/baseball-design/tree/master/src).
