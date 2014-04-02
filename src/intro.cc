@@ -20,8 +20,7 @@ void string_length(const char* str, int accum = 0) { // throw(int)
   string_length(str + 1, accum + 1);
 }
 
-// Convert a string to an integer, assuming decimal encoding. Throw an exception
-// if no integer is encountered.
+// Convert a string to an integer, assuming decimal encoding. Throw a false bool if no integer is encountered.
 void string_to_int(const char* str) { // throw(int, bool)
   bool got_num = false;
   int sign = 1;
@@ -39,8 +38,7 @@ void string_to_int(const char* str) { // throw(int, bool)
   throw false;
 }
 
-// The usual main function is replaced with catch_main, as defined in
-// catch_main.h.
+// The usual main function is replaced with catch_main, as defined in catch_main.h.
 void catch_main(int argc, char** argv) {
   try { factorial(4); }
   catch (int result) {
