@@ -54,6 +54,9 @@ void catch_main(int argc, char** argv) {
   catch (int value) {
     std::cout << "The value of string '12345' is " << value << std::endl;
   }
+  catch (bool failure) {
+    std::cout << "The value was not a integer" << std::endl;
+  }
 
   try { string_to_int("Letters"); }
   catch (bool success) {
